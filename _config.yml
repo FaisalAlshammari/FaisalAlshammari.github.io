@@ -62,7 +62,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Hey! yeah sorry the blog is not done yet :("
   links:
-    - label: "H"
+    - label: "Home Page"
       icon: "fas fa-fw fa-home"
       url: "https://faisalalshammari.github.io/"
     - label: "Twitter"
@@ -72,7 +72,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/FaisalAlshammari"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/faisal-alshammari1"
 
 footer:
